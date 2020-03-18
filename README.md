@@ -12,7 +12,7 @@ la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 2
 investigar porque se borran estos datos en el mosfet por la oxidacion 
 
 
-Esta construida con transistores mosfet en el proceso de los transistores mosfet utiliza el oxido de puerta que se forma por oxidacion termica que sirve como crear una capa dielectrica para sostener un campo magnetico, para asi almacenar datos sin necesidad de electricidad utiliza el proceso de oxidacion para cambiar el estado del material.
+Esta construida con transistores mosfet en el proceso de los transistores mosfet utiliza el oxido de puerta que se forma por oxidacion termica que sirve como crear una capa dielectrica para sostener un campo magnetico, para asi almacenar datos sin necesidad de almacenar electricidad utiliza el proceso de oxidacion para cambiar el estado del material.
 
 Transistores mosfet: utilizan el proceso de oxidacion y reduccion para guardar datos como un memoria.
 
