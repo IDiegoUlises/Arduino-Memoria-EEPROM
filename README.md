@@ -18,4 +18,4 @@ la memoria eprom en caso que no se conecte a la corriente en un tiempo de 6 año
 
 Este repositorio seraa creado cuando tenga luz ultravioleta para probar las propiedades electromagneticas de la memoria eprom cuando la  luz ultra violeta entra en contacto
 
-Utiliza transistores mosfet en el proceso de los transistores mosfet utiliza el oxido de puerta que se forma por oxidacion termica que sirve como crear una capa dielectrica para sostener un campo magnetico, para asi almacenar datos sin necesidad de electricidad 
+Utiliza transistores mosfet en el proceso de los transistores mosfet utiliza el oxido de puerta que se forma por oxidacion termica que sirve como crear una capa dielectrica para sostener un campo magnetico, para asi almacenar datos sin necesidad de electricidad utiliza el proceso de oxidacion para cambiar el material de manera electricamente
