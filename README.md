@@ -8,6 +8,8 @@ la memoria eprom se borra con luz ultra violeta
 
 La memoria eprom puede ser borrada tambien con rayos x
 
+la memoria eprom tiene un limite de borrado por luz y si le aplica fuertes cantiddad de luz ultravioleta esta se va debilitando rapidamente hasta dañarse.
+
 la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes 
 investigar porque se borran estos datos en el mosfet por la oxidacion 
 
