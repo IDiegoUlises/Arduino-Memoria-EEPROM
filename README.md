@@ -30,6 +30,6 @@ Electrodo: Es un conductor electrico utilizado para hacer contacto con una parte
 
 Ion: Es una particula electricamente cargada
 
-Electrolito: Es cualquier sustancia que contiene iones libres que hacen que se comperten como un conductor electrico. Un ejemplo es la sal es un electrilito para demostrarlo la agua pura no es conductora de electricidad, a un vaso de agua se le agrega electricidad y si se mide la electricidad no estara pero si al vaso de agua le agregamos sal luego volvemos hacer esta medicion la corriente electrica circulara en el agua gracia a la sustancia disuelta que en este caso es la sal.
+Electrolito: Es cualquier sustancia que contiene iones que hacen que se comperten como un conductor electrico. Un ejemplo es la sal es un electrilito para demostrarlo la agua pura no es conductora de electricidad, a un vaso de agua se le agrega electricidad y si se mide la electricidad no estara pero si al vaso de agua le agregamos sal luego volvemos hacer esta medicion la corriente electrica circulara en el agua gracia a la sustancia disuelta que en este caso es la sal.
 
 
