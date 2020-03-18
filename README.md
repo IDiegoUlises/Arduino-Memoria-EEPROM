@@ -8,8 +8,6 @@ la memoria eprom se borra con luz ultra violeta
 
 La memoria eprom puede ser borrada tambien con rayos x
 
-la memoria emprom ! puede guardar muy pocos datos que son numeros enteros se puede utilizar trucos matematicos para guardar mas datos.
-
 la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes 
 investigar porque se borran estos datos en el mosfet por la oxidacion 
 
