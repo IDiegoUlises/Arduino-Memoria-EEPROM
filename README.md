@@ -21,4 +21,5 @@ oxidacion: Es cuando un material pierde electrones. Un ejemplo una llave inglesa
 reducion: Este es el proceso que un material gana electrones. Si en un material gana electrones este material disminuye su estado de oxidacion.
 
 Electrolisis: Es un proceso que separa elementos quimicos utilizando la electricidad.
+
 Dielectrico: Es un material con baja conductividad electrica.
