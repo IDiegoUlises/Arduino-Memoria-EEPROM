@@ -13,7 +13,7 @@ la memoria eprom tiene un limite de borrado por luz y si le aplica fuertes canti
 la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes se borran porque la carga...
 
 
-La memoria eprom esta construida con transistores mosfet en el proceso de los transistores mosfet utiliza el oxido de puerta que se forma por oxidacion termica que sirve como crear una capa dielectrica para sostener un campo magnetico, para asi almacenar datos sin necesidad de almacenar electricidad utiliza el proceso de oxidacion para cambiar el estado del material. ??? VERIFIFICAR???
+La memoria eprom esta construida con transistores mosfet en el proceso de los transistores mosfet utiliza el oxido de puerta que se forma por oxidacion termica que sirve como crear una capa dielectrica para sostener un campo magnetico, para asi almacenar datos sin necesidad de almacenar electricidad utiliza el proceso de oxidacion para cambiar el estado del material. ??? VERIFIFICAR??? CONTRADICCION.. CAMPO MAGNETIO = ELECTRICIDAD  averiguar si este almacena un campo electrico, campo magnetico o utiliza la oxidacion para guardar la informacion como una memoria el transistor mos en unos de sus dopajes pierde electrones a base de la oxidacion -comprobar cual es la correcta 
 
 Transistores mosfet: utilizan el proceso de oxidacion y reduccion.
 
@@ -31,4 +31,8 @@ Ion: Es una particula electricamente cargada
 
 Electrolito: Es cualquier sustancia que contiene iones que hacen que se comperten como un conductor electrico. Un ejemplo es la sal es un electrilito para demostrarlo la agua pura no es conductora de electricidad, a un vaso de agua se le agrega electricidad y si se mide la electricidad no estara pero si al vaso de agua le agregamos sal luego volvemos hacer esta medicion la corriente electrica circulara en el agua gracia a la sustancia disuelta que en este caso es la sal.
 
+
+Corriente: Es el flujo de electrones que a traves de un material.
+
+Voltaje: Es la velocidad con electrones son desplazados y es el trabajo necesario para mover los electrones.
 
