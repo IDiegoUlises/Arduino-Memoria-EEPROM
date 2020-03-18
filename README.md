@@ -1,4 +1,4 @@
-# Memoria Eprom arduino
+# Memoria Eprom Arduino
 
 la memoria eprom es memoria permanente en el arduino es decir que cuando se apaga el microcontrolador se queda guardado los datos.
 
