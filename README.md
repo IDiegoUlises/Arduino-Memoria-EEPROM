@@ -1,4 +1,4 @@
-# Memoria-Eprom arduino
+# Memoria Eprom arduino
 
 la memoria eprom es memoria permanente en el arduino es decir que cuando se apaga el microcontrolador se queda guardado los datos.
 
@@ -6,7 +6,7 @@ la memoria eprom solo puede ser editada 100,000 veces y luego dejara de funciona
 
 la memoria eprom se borra con luz ultra violeta
 
-La memoria eprom puede ser borrado tambien con rayos x
+La memoria eprom puede ser borrada tambien con rayos x
 
 la memoria emprom ! puede guardar muy pocos datos que son numeros enteros se puede utilizar trucos matematicos para guardar mas datos.
 
