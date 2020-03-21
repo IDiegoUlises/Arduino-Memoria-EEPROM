@@ -13,7 +13,10 @@ la memoria eprom tiene un limite de borrado por luz y si le aplica fuertes canti
 la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes se borran porque la carga...
 
 
-La memoria eprom esta construida con transistores mosfet en el proceso de los transistores mosfet utiliza el oxido de puerta que se forma por oxidacion termica que sirve como crear una capa dielectrica para sostener un campo magnetico, para asi almacenar datos sin necesidad de almacenar electricidad utiliza el proceso de oxidacion para cambiar el estado del material. ??? VERIFIFICAR??? CONTRADICCION.. CAMPO MAGNETIO = ELECTRICIDAD  averiguar si este almacena un campo electrico, campo magnetico o utiliza la oxidacion para guardar la informacion como una memoria el transistor mos en unos de sus dopajes pierde electrones a base de la oxidacion -comprobar cual es la correcta 
+La memoria eprom esta construida con transistores mosfet en algunos casos los transistores mosfet forman circuito flip-flop o utilizan un condesandor mos.
+
+Un transistor mosfet ademas de funcionar como un transistor ambien puede funcionar como un condensador porque este transistor mosfet de puerta flotante internamente estra construida para que pueda almacenar un campo electrico y producir electricidad al mover los electrones.
+
 
 Transistores mosfet: utilizan el proceso de oxidacion y reduccion.
 
