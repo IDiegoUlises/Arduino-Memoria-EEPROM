@@ -4,13 +4,13 @@ la memoria eprom es memoria permanente en el arduino es decir que cuando se apag
 
 la memoria eprom solo puede ser editada 100,000 veces y luego dejara de funcionar puede parecer mucho pero si se hace un borrado infinitamente con programacion en 3 minutos se harian las 100,000 veces
 
-la memoria eprom se borra con luz ultra violeta
+la memoria eprom puede ser borrada con luz ultra violeta
 
 La memoria eprom puede ser borrada tambien con rayos x
 
 la luz ultravioleta daña los ciclos de borrado de la memoria eprom
 
-la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes se borran porque descargara el condensador MOS
+la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes se borran porque se descargara el condensador MOS
 
 La memoria eprom esta construida internamente con transistores mosfet que forman compuertas logicas 
 
