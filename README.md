@@ -15,10 +15,3 @@ la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 2
 La memoria eprom esta construida internamente con transistores mosfet que forman compuertas logicas 
 
 Un transistor mosfet ademas de funcionar como un transistor tambien puede funcionar como un condensador porque este transistor mosfet internamente esta construida para que pueda almacenar un campo electrico y producir electricidad al mover los electrones, esto se utiliza en las memorias para guardar informacion a diferencia de un condensador normal el transistor mosfet puede funcionar como transistor y condensador y la gran diferencia que su tamaño puede ser reducido a escala nanometrica para asi crear grandes memorias. cuando este transistor es utilizado para el proposito como condensador se le llama condensador MOS.
-
-
-Transistores mosfet: utilizan el proceso de oxidacion y reduccion.
-
-oxidacion: Es cuando un material pierde electrones. Un ejemplo una llave inglesa se oxida porque pierde electrones es un material metalico conductor de electricidad por esta razon es mas frecuente que una llave inglesa se oxide con facilidad o elementos que son conductores de electricidad tienen mayor facilidad en perder los electrones.
-
-reducion: Este es el proceso que un material gana electrones. Si en un material gana electrones este material disminuye su estado de oxidacion.
