@@ -15,7 +15,7 @@ la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 2
 
 La memoria eprom esta construida con transistores mosfet en algunos casos los transistores mosfet forman circuito flip-flop o utilizan un condesandor mos.
 
-Un transistor mosfet ademas de funcionar como un transistor ambien puede funcionar como un condensador porque este transistor mosfet de puerta flotante internamente estra construida para que pueda almacenar un campo electrico y producir electricidad al mover los electrones.
+Un transistor mosfet ademas de funcionar como un transistor tambien puede funcionar como un condensador porque este transistor mosfet internamente esta construida para que pueda almacenar un campo electrico y producir electricidad al mover los electrones, esto se utiliza en las memorias para guardar informacion a diferencia de un condensador normal el transistor mosfet puede funcionar como transistor y condensador y la gran diferencia que su tamaño puede ser reducido a escala nanometrica para asi crear grandes memorias. cuando este transistor es utilizado para el proposito como condensador se le llama condensador MOS.
 
 
 Transistores mosfet: utilizan el proceso de oxidacion y reduccion.
