@@ -10,7 +10,7 @@ La memoria eprom puede ser borrada tambien con rayos x
 
 la luz ultravioleta daña los ciclos de borrado de la memoria eprom
 
-la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes se borran porque la carga del condensador MOS
+la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes se borran porque descargara el condensador MOS
 
 La memoria eprom esta construida internamente con transistores mosfet que forman compuertas logicas 
 
