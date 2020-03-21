@@ -12,8 +12,7 @@ la memoria eprom tiene un limite de borrado por luz y si le aplica fuertes canti
 
 la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes se borran porque la carga...
 
-
-La memoria eprom esta construida con transistores mosfet en algunos casos los transistores mosfet forman circuito flip-flop o utilizan un condesandor mos.
+La memoria eprom esta construida internamente con transistores mosfet que forman compuertas logicas 
 
 Un transistor mosfet ademas de funcionar como un transistor tambien puede funcionar como un condensador porque este transistor mosfet internamente esta construida para que pueda almacenar un campo electrico y producir electricidad al mover los electrones, esto se utiliza en las memorias para guardar informacion a diferencia de un condensador normal el transistor mosfet puede funcionar como transistor y condensador y la gran diferencia que su tamaño puede ser reducido a escala nanometrica para asi crear grandes memorias. cuando este transistor es utilizado para el proposito como condensador se le llama condensador MOS.
 
