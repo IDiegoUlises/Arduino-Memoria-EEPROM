@@ -12,6 +12,8 @@ la luz ultravioleta daña los ciclos de borrado de la memoria eprom
 
 Esta memoria eprom para el borrado y para guardar la informacion se hace de manera electrica. 
 
+Realizar la lectura de la memoria EPROM no daña la memoria se pueden realizar lecturas infinita de la memoria sin producir ningun tipo de daño.
+
 la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 20 años se borraran todos los datos permanentes se borran porque se descargara el condensador MOS.
 
 Para que el condensador no se descargue este debe ser realimentado. 
