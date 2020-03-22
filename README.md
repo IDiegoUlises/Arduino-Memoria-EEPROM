@@ -32,3 +32,9 @@ Todos los tipos de memoria que incorpora el arduino
 * FLASH, no volátil, donde grabamos el sketch (incluido el bootloader).
 *  SRAM (static random access memory), volátil, donde se almacenan las variables durante el funcionamiento.
 * EEPROM, no volátil, que podemos usar para almacenar información entre reinicios.
+
+Memoria Eprom de Arduino Uno
+* 1KB de memoria eprom
+
+Memoria Eprom de Arduino Mega
+* 4kb de memoria eprom
