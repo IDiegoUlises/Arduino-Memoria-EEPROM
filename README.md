@@ -18,6 +18,6 @@ la memoria eprom en caso que no se conecte a la corriente en un tiempo de 10 a 2
 
 Para que el condensador no se descargue este debe ser realimentado. 
 
-La memoria eprom esta construida internamente con transistores mosfet que forman compuertas logicas 
+La memoria eprom esta construida internamente con **transistores de puerta flotante(FGMOS)** que es un transistor mosfet normal con la diferencia esta especialmente diseñado para retener una carga capacitiva es decir que tambien funciona como un condensador muchos de estos forman compuertas logicas que la vez para formar una **celdas de memoria** que es un circuito que almacenas datos binarios. 
 
 Un transistor mosfet ademas de funcionar como un transistor tambien puede funcionar como un condensador porque este transistor mosfet internamente esta construida para que pueda almacenar un campo electrico y producir electricidad al mover los electrones, esto se utiliza en las memorias para guardar informacion a diferencia de un condensador normal el transistor mosfet puede funcionar como transistor y condensador y la gran diferencia que su tamaño puede ser reducido a escala nanometrica para asi crear grandes memorias. cuando este transistor es utilizado para el proposito como condensador se le llama condensador MOS.
