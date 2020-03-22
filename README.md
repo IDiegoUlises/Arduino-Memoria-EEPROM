@@ -2,7 +2,7 @@
 
 la memoria eprom es memoria permanente en el arduino es decir que cuando se apaga el microcontrolador se queda guardado los datos.
 
-la memoria eprom solo puede ser editada 100.000 veces y luego dejara de funcionar puede parecer mucho pero si se hace un borrado infinitamente con programacion en 5 minutos se harian las 100,000 veces y dura Unos 27 años si grabamos 10 veces al día.
+la memoria eprom solo puede ser editada 100.000 veces y luego dejara de funcionar puede parecer mucho pero si se hace un borrado infinitamente con programacion en 5 minutos se harian las 100,000 veces y dura 27 años si grabamos 10 veces al día.
 
 la memoria eprom puede ser borrada con luz ultra violeta
 
