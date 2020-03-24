@@ -14,8 +14,9 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 
 
 **Luz UV** 
-* La memoria eprom puede ser borrada con luz ultra violeta
-* La luz ultravioleta daña los ciclos de borrado de la memoria eprom
+* La EPROM puede ser borrada con luz ultra violeta
+* Puede borrase con rayos-x 
+* El borrado por luz daña la memoria
 
 
 Realizar la lectura de la memoria EPROM no daña la memoria se pueden realizar lecturas infinita de la memoria sin producir ningun tipo de daño.
