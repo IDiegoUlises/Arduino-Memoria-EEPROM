@@ -2,19 +2,20 @@
 
 La memoria EPROM esta construida internamente con **transistores de puerta flotante(FGMOS)** que es un transistor que retiene una carga capacitiva que funciona como un condensador decenas de estos forman compuertas logicas para llegar a formar una celda de memoria que es un circuito que almacena los datos en binarios.
 
-* La EPROM es la memoria permanente cuando se apaga el microcontrolador se quedan guardados todos los datos.
-* El borrado de la memoria es atraves de corriente 
+* La EPROM es un tipo de memoria donde los datos se guardan permanentemente
+* Es una memoria volatil porque los datos se guardan permanentemente
+* El borrado de la memoria es atraves de corriente
 
 
-Limite de ediciones
+**Limite de ediciones**
 * Limite de borrado y escritura de 100.000 veces 
 * editada cada segundo tiene una duraccion de 5 minutos
 * editada 10 veces al dia tiene una duraccion de 27 años
 
 
-Luz UV 
-* la memoria eprom puede ser borrada con luz ultra violeta
-* la luz ultravioleta daña los ciclos de borrado de la memoria eprom
+**Luz UV** 
+* La memoria eprom puede ser borrada con luz ultra violeta
+* La luz ultravioleta daña los ciclos de borrado de la memoria eprom
 
 
 Realizar la lectura de la memoria EPROM no daña la memoria se pueden realizar lecturas infinita de la memoria sin producir ningun tipo de daño.
