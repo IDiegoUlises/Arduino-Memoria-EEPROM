@@ -9,8 +9,8 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 
 **Limite de ediciones**
 * Limite de borrado y escritura de 100.000 veces 
-* editada cada segundo tiene una duraccion de 5 minutos
-* editada 10 veces al dia tiene una duraccion de 27 años
+* Editada cada segundo tiene una duraccion de 5 minutos
+* Editada 10 veces al dia tiene una duraccion de 27 años
 
 
 **Luz UV** 
