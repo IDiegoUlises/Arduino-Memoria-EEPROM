@@ -1,6 +1,6 @@
 # Memoria Eprom Arduino
 
-La memoria EPROM esta construida internamente con **transistores de puerta flotante(FGMOS)** que es un transistor que retiene una carga capacitiva que funciona como transistor y como condensador decenas de estos forman compuertas logicas para llegar a formar una **celda de memoria** que es un circuito que almacena los datos en binarios.
+La memoria EPROM esta construida internamente con **transistores de puerta flotante(FGMOS)** que es un transistor que retiene una carga capacitiva que funciona como transistor y como condensador decenas de estos forman compuertas logicas para llegar a formar una celda de memoria que es un circuito que almacena los datos en binarios.
 
 * La EPROM es la memoria permanente cuando se apaga el microcontrolador se quedan guardados todos los datos.
 * Esta memoria eprom para el borrado y para la escritura es por medio de la corriente. 
