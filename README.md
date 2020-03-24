@@ -1,24 +1,21 @@
 # Memoria Eprom Arduino
 
-La memoria EPROM es la memoria permanente en el arduino cuando se apaga el microcontrolador se queda guardado los datos.
+La memoria EPROM esta construida internamente con **transistores de puerta flotante(FGMOS)** que es un transistor que retiene una carga capacitiva tambien funciona como un condensador decenas de estos forman compuertas logicas para llegar a formar una **celda de memoria** que es un circuito que almacena los datos en binarios.
 
-la memoria eprom solo puede ser editada 100.000 veces y luego dejara de funcionar puede parecer mucho pero si se hace un borrado infinitamente con programacion en 5 minutos se harian las 100,000 veces y dura 27 años si grabamos 10 veces al día.
+* La EPROM es la memoria permanente cuando se apaga el microcontrolador se quedan guardados todos los datos.
+* Esta memoria eprom para el borrado y para la escritura es por medio de la corriente. 
+* Solo puede ser editada 100.000 veces 
+* editada infinitamente solo dura 5 minutos
+* editada infinitamente 10 veces al dia tiene una duraccion de 27 años
+* la memoria eprom puede ser borrada con luz ultra violeta
+* la luz ultravioleta daña los ciclos de borrado de la memoria eprom
 
-la memoria eprom puede ser borrada con luz ultra violeta
-
-la luz ultravioleta daña los ciclos de borrado de la memoria eprom
-
-Esta memoria eprom para el borrado y para la escritura es por medio de la corriente. 
 
 Realizar la lectura de la memoria EPROM no daña la memoria se pueden realizar lecturas infinita de la memoria sin producir ningun tipo de daño.
 
-la memoria eprom en caso que no se conecte a la corriente en un tiempo 15 años se borraran todos los datos permanentes se borranan porque se descargara el condensador.
+la memoria eprom en caso que no se conecte a la corriente en un tiempo 15 años se borraran todos los datos permanentes se borranan porque se descargara el condensador y para evitar esto debe ser realimentado.
 
-Para que el condensador evitar que se descargue este debe ser realimentado. 
 
-Un transistor mosfet ademas de funcionar como un transistor tambien puede funcionar como un condensador porque este transistor mosfet internamente esta construida para que pueda almacenar un campo electrico y producir electricidad al mover los electrones, esto se utiliza en las memorias para guardar informacion a diferencia de un condensador normal el transistor mosfet puede funcionar como transistor y condensador la diferencia que su tamaño puede ser reducido a escala nanometrica para crear enormes memorias, cuando este transistor es utilizado para el proposito de condensador se denomina un condensador MOS.
-
-La memoria eprom esta construida internamente con **transistores de puerta flotante(FGMOS)** que es un transistor que esta diseñado para retener una carga capacitiva es decir que tambien funciona como un condensador decenas de estos forman compuertas logicas para llegar a formar una **celda de memoria** que es un circuito que almacena los datos en binarios.
 
 Datos de programacion
 
