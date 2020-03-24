@@ -6,11 +6,13 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 * El borrado de la memoria es atraves de corriente 
 
 
+Limite de ediciones
 * Limite de borrado y escritura de 100.000 veces 
-* editada infinitamente tiene una duraccion de 5 minutos
-* editada infinitamente 10 veces al dia tiene una duraccion de 27 años
+* editada cada segundo tiene una duraccion de 5 minutos
+* editada 10 veces al dia tiene una duraccion de 27 años
 
 
+Luz UV 
 * la memoria eprom puede ser borrada con luz ultra violeta
 * la luz ultravioleta daña los ciclos de borrado de la memoria eprom
 
