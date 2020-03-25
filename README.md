@@ -12,18 +12,14 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 * Editada cada segundo tiene una duraccion de 5 minutos
 * Editada 10 veces al dia tiene una duraccion de 27 años
 
+**Lectura**
+* Se pueden realizar lecturas ilimitadas porque que no detoriora la memoria
+
 
 **Luz UV** 
 * La EPROM puede ser borrada con luz ultra violeta
 * Puede borrase con rayos-x 
 * El borrado por luz disminuye el limite de borrado
-
-**Lectura**
-* Se pueden realizar lecturas ilimitadas porque que no daña la memoria
-
-
-Realizar la lectura de la memoria EPROM no daña la memoria se pueden realizar lecturas infinita de la memoria sin producir ningun tipo de daño.
-
 
 
 
