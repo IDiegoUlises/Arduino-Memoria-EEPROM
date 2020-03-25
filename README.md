@@ -16,7 +16,7 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 * Se pueden realizar lecturas ilimitadas porque que no detoriora la memoria
 
 **Velocidad**
-* Para la escritura de la EPROM se demora 3.3 ms en su escritura 
+* Para la escritura de la EPROM es de 3.3 ms en su escritura 
 * Para la lectura de la EPROM es de 0.3ms para lectura
 
 **Luz UV** 
@@ -24,13 +24,14 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 * Puede borrase con rayos-x 
 * El borrado por luz disminuye el limite de borrado
 
-**Memorias incorporada en el arduino**
-* FLASH: no volatil, donde grabamos el sketch (incluido el bootloader).
-* SRAM: volatil, donde se almacenan las variables durante el funcionamiento
-* EEPROM: no volatil, la podemos usar para guardar variables permanentes
-
 **Tamaño de memoria EPROM del Arduino Uno**
 * 1KB de memoria eprom
 
 **Tamaño de memoria Eprom del Arduino Mega**
 * 4KB de memoria eprom
+
+**Memorias incorporada en el arduino**
+* FLASH: no volatil, donde grabamos el sketch (incluido el bootloader).
+* SRAM: volatil, donde se almacenan las variables durante el funcionamiento
+* EEPROM: no volatil, la podemos usar para guardar variables permanentes
+
