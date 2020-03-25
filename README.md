@@ -26,7 +26,7 @@ La memoria EEPROM esta construida internamente con **transistores de puerta flot
 **Tamaño de memoria EEPROM del Arduino Mega**
 * 4KB de memoria
 
-**Memorias incorporada en el arduino**
+**Memorias incorporada en el Arduino**
 * FLASH: no volatil, donde grabamos el sketch (incluido el bootloader).
 * SRAM: volatil, donde se almacenan las variables durante el funcionamiento
 * EEPROM: no volatil, la podemos usar para guardar variables permanentes
