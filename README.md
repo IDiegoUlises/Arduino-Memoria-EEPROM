@@ -25,10 +25,10 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 * El borrado por luz disminuye el limite de borrado
 
 **Tamaño de memoria EPROM del Arduino Uno**
-* 1KB de memoria eprom
+* 1KB de memoria
 
 **Tamaño de memoria Eprom del Arduino Mega**
-* 4KB de memoria eprom
+* 4KB de memoria
 
 **Memorias incorporada en el arduino**
 * FLASH: no volatil, donde grabamos el sketch (incluido el bootloader).
