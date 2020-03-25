@@ -27,7 +27,7 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 **Tamaño de memoria EPROM del Arduino Uno**
 * 1KB de memoria
 
-**Tamaño de memoria Eprom del Arduino Mega**
+**Tamaño de memoria EPROM del Arduino Mega**
 * 4KB de memoria
 
 **Memorias incorporada en el arduino**
