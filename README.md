@@ -27,9 +27,9 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 * Para la lectura de la EPROM es de 0.3ms para lectura
 
 **Memorias incorporada en el arduino**
-* **FLASH:** no volatil, donde grabamos el sketch (incluido el bootloader).
-* **SRAM:** volatil, donde se almacenan las variables durante el funcionamiento
-* **EEPROM:** no volatil, la podemos usar para guardar variables permanentes
+* FLASH: no volatil, donde grabamos el sketch (incluido el bootloader).
+* SRAM: volatil, donde se almacenan las variables durante el funcionamiento
+* EEPROM: o volatil, la podemos usar para guardar variables permanentes
 
 **Tamaño de memoria EPROM del Arduino Uno**
 * 1KB de memoria eprom
