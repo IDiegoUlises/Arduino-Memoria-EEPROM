@@ -16,8 +16,8 @@ La memoria EPROM esta construida internamente con **transistores de puerta flota
 * Se pueden realizar lecturas ilimitadas porque que no detoriora la memoria
 
 **Velocidad**
-* Para la escritura de la EPROM es de 3.3 ms en su escritura 
-* Para la lectura de la EPROM es de 0.3ms para lectura
+* Para la escritura de la EEPROM es de 3.3 ms en su escritura 
+* Para la lectura de la EEPROM es de 0.3ms para lectura
 
 
 **Tamaño de memoria EEPROM del Arduino Uno**
