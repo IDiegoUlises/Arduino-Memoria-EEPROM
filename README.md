@@ -52,9 +52,23 @@ para utilizar la eprom se debe llamar a la libreria #include <EEPROM.h>
 
 el int direccion = 0; se puede poner desde el 0 a 1023 que en total son 1024 byes de direcciones
 
+Parece que solo se pueden valores numeros y ningun valor string 
+
 ```c++
-int direccion = 0;
-int devolucion = 0;
-EEPROM.get(direccion,devolucion);
-serial.println(devolucion); //Obtiene el valor guardado en la eeprom
+#include <EEPROM.h>
+
+void setup() {
+
+  Serial.begin(9600);
+  int direccion = 0;
+  int devolucion = 0;
+  EEPROM.get(direccion,devolucion);
+  Serial.println(devolucion);
+
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+
+}
 ```
