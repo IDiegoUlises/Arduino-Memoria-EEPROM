@@ -52,7 +52,9 @@ para utilizar la eprom se debe llamar a la libreria #include <EEPROM.h>
 
 el int eeadress = 0; se puede poner desde el 0 a 1023 que en total son 1024 byes de direcciones
 
+```c++
 int eeaddress = 0;
 int devolucion = 0;
 EEPROM.get(eeAddress,devolucion);
-serial.print(devolucion); //Obtiene el valor guardado en la eeprom
+serial.println(devolucion); //Obtiene el valor guardado en la eeprom
+```
