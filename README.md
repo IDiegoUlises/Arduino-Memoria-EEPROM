@@ -31,3 +31,28 @@ La memoria EEPROM esta construida internamente con **transistores de puerta flot
 * SRAM: volatil, donde se almacenan las variables durante el funcionamiento
 * EEPROM: no volatil, la podemos usar para guardar variables permanentes
 
+## Code for testing good and bad the teoric 
+
+
+//Escribe un dato en la memoria eprom
+EEPROM.Put(address, variable) 
+
+//Lee una variable en la dirección address que es un numero int que es de 0 a 1023 y devuelve el valor obtenido a una variable declarada 
+EEPROM.Get(address, valor) 
+
+EEPROM.Update(address, variable)
+//Actualiza el valor de una variable, es decir, primero la lee, y sólo la graba si su valor es distinto del que vamos a guardar. Esto favorece a reducir el número de escrituras, y alargar la vida útil de la memoria.
+
+
+Arduino uno tiene 1 kb eeprom es decir 0 a 1023 en total 1024 direcciones para guardar 1024 variables
+
+
+para utilizar la eprom se debe llamar a la libreria #include <EEPROM.h>
+
+
+el int eeadress = 0; se puede poner desde el 0 a 1023 que en total son 1024 byes de direcciones
+
+int eeaddress = 0;
+int devolucion = 0;
+EEPROM.get(eeAddress,devolucion);
+serial.print(devolucion); //Obtiene el valor guardado en la eeprom
