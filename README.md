@@ -50,11 +50,11 @@ Arduino uno tiene 1 kb eeprom es decir 0 a 1023 en total 1024 direcciones para g
 para utilizar la eprom se debe llamar a la libreria #include <EEPROM.h>
 
 
-el int eeadress = 0; se puede poner desde el 0 a 1023 que en total son 1024 byes de direcciones
+el int direccion = 0; se puede poner desde el 0 a 1023 que en total son 1024 byes de direcciones
 
 ```c++
-int eeaddress = 0;
+int direccion = 0;
 int devolucion = 0;
-EEPROM.get(eeAddress,devolucion);
+EEPROM.get(direccion,devolucion);
 serial.println(devolucion); //Obtiene el valor guardado en la eeprom
 ```
