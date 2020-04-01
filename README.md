@@ -111,3 +111,35 @@ void loop() {
 
 }
 ```
+
+
+**Codigo que funciona para un boton**
+
+```c++
+int led = 13;
+int boton = 2;
+
+boolean save = 0;
+
+void setup() {
+
+  pinMode(led, OUTPUT);
+  pinMode(boton, INPUT);
+
+}
+
+void loop() {
+
+
+  int estado = digitalRead(boton);
+
+  if (estado == HIGH)
+  {
+    save = !save;
+    digitalWrite(led, save);
+    delay(150);
+    
+  }
+
+}
+```
