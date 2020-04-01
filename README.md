@@ -45,7 +45,7 @@ int obtener;
 EEPROM.Get(direccion, obtener);
 ```
 
-Lee y solo cambia si su valor es distinto al guardado
+Lee y solo actualiza su valor si es distinto al guardado
 ```c++
 EEPROM.Update(direccion, variable)
 ```
