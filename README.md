@@ -92,4 +92,4 @@ void loop() {
 
 ![](https://github.com/IDiegoUlises/Arduino-Memoria-EEPROM/blob/master/Images/Arduino-EEPROM.gif)
 
-Se inicia el Arduino el led inicia apagado luego se presiona el boton y se prende el led luego se desconecta la fuente de alimentacion y se vuelve encender el Arduino y el led inicia encendido esto sucede porque cuando se presiono el boton el Arduino guardo el estado en la memoria EEPROM. 
+Se inicia el Arduino el led inicia apagado luego se presiona el boton y se prende el led luego se desconecta de la fuente de alimentacion ahora se vuelve encender el Arduino y el led inicia encendido esto sucede porque cuando se presiono el boton el Arduino guardo el estado en la memoria EEPROM. 
