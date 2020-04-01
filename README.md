@@ -72,3 +72,42 @@ void loop() {
 
 }
 ```
+
+**Code de prueba para guardar datos**
+
+```c++
+#include <EEPROM.h>
+
+int led = 13;
+int boton = 2;
+
+int direccion = 0;
+int valor = 0;
+
+void setup() {
+
+  pinMode(led, OUTPUT);
+  pinMode(boton, INPUT);
+
+}
+
+void loop() {
+
+  EEPROM.get(direccion, valor);
+  digitalWrite(led, valor);
+  
+  boolean cambio = valor;
+
+  int estado = digitalRead(boton);
+
+  if (estado == HIGH)
+  {
+    boolean guardar = !valor;
+    EEPROM.update(direccion, guardar);
+    delay(1000);
+  }
+
+  delay(80);
+
+}
+```
