@@ -54,6 +54,8 @@ el int direccion = 0; se puede poner desde el 0 a 1023 que en total son 1024 bye
 
 * Solo se pueden modifcar valores entero solo numeros y no se pueden agregar string en caso que necesite agregar una variable tipo string la tiene que convertila a binario y guardarla y para leerla leer en binario y traducirla a texto
 
+## prueba con codigo
+
 ```c++
 #include <EEPROM.h>
 
@@ -143,3 +145,41 @@ void loop() {
 
 }
 ```
+
+**Codigo que funciona**
+
+```c++
+#include <EEPROM.h>
+
+int led = 13;
+int boton = 2;
+
+int direccion = 0;
+int valor = 0;
+
+boolean save = false;
+
+void setup() {
+
+  pinMode(led, OUTPUT);
+  pinMode(boton, INPUT);
+
+}
+
+void loop() {
+
+  EEPROM.get(direccion, save);
+  digitalWrite(led, save);
+  
+
+  int estado = digitalRead(boton);
+
+  if (estado == HIGH)
+  {
+    save = !save;
+    EEPROM.update(direccion, save);
+    delay(150);
+  }
+
+}
+´´´
