@@ -93,5 +93,8 @@ void loop() {
 }
 ``` 
 
+## Funcionamiento
 
 ![](https://github.com/IDiegoUlises/Arduino-Memoria-EEPROM/blob/master/Images/Arduino-EEPROM.gif)
+
+Se inicia el arduino el led inicia apagado luego se presiona el boton y se prende el led luego se desconecta la fuenta de alimentacion y se vuelve prender el arduino y el led inicia encendido esto sucede porque al presionar el boton el arduino guarda el estado en la memoria EEPROM 
