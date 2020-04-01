@@ -31,31 +31,26 @@ La memoria EEPROM esta construida internamente con **transistores de puerta flot
 * SRAM: volatil, donde se almacenan las variables durante el funcionamiento
 * EEPROM: no volatil, la podemos usar para guardar variables permanentes
 
-## Code for testing good and bad the teoric 
+## Codigo
 
+Escribe un dato en la memoria EEPROM
 
-//Escribe un dato en la memoria eprom
-EEPROM.Put(address, variable) 
+```c++
+EEPROM.Put(direccion, valor);
+```
 
-//Lee una variable en la dirección address que es un numero int que es de 0 a 1023 y devuelve el valor obtenido a una variable declarada 
-EEPROM.Get(address, valor) 
+Lee una direccion y devuelve un valor
+```c++
+int obtener;
+EEPROM.Get(direccion, obtener);
+```
 
-EEPROM.Update(address, variable)
-//Actualiza el valor de una variable, es decir, primero la lee, y sólo la graba si su valor es distinto del que vamos a guardar. Esto favorece a reducir el número de escrituras, y alargar la vida útil de la memoria.
+Lee y solo cambia si su valor es distinto al guardado
+```c++
+EEPROM.Update(direccion, variable)
+```
 
-
-Arduino uno tiene 1 kb eeprom es decir 0 a 1023 en total 1024 direcciones para guardar 1024 variables
-
-
-para utilizar la eprom se debe llamar a la libreria #include <EEPROM.h>
-
-
-el int direccion = 0; se puede poner desde el 0 a 1023 que en total son 1024 byes de direcciones
-
-* Solo se pueden modifcar valores entero solo numeros y no se pueden agregar string en caso que necesite agregar una variable tipo string la tiene que convertila a binario y guardarla y para leerla leer en binario y traducirla a texto
-
-
-**Codigo que funciona**
+**Codigo**
 
 ```c++
 #include <EEPROM.h>
@@ -97,4 +92,4 @@ void loop() {
 
 ![](https://github.com/IDiegoUlises/Arduino-Memoria-EEPROM/blob/master/Images/Arduino-EEPROM.gif)
 
-Se inicia el arduino el led inicia apagado luego se presiona el boton y se prende el led luego se desconecta la fuenta de alimentacion y se vuelve prender el arduino y el led inicia encendido esto sucede porque al presionar el boton el arduino guarda el estado en la memoria EEPROM 
+Se inicia el Arduino el led inicia apagado luego se presiona el boton y se prende el led luego se desconecta la fuente de alimentacion y se vuelve encender el Arduino y el led inicia encendido esto sucede porque cuando se presiono el boton el Arduino guardo el estado en la memoria EEPROM. 
