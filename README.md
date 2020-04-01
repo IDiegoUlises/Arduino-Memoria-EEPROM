@@ -52,7 +52,7 @@ para utilizar la eprom se debe llamar a la libreria #include <EEPROM.h>
 
 el int direccion = 0; se puede poner desde el 0 a 1023 que en total son 1024 byes de direcciones
 
-Parece que solo se pueden valores numeros y ningun valor string 
+* Solo se pueden modifcar valores entero solo numeros y no se pueden agregar string en caso que necesite agregar una variable tipo string la tiene que convertila a binario y guardarla y para leerla leer en binario y traducirla a texto
 
 ```c++
 #include <EEPROM.h>
