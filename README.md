@@ -39,7 +39,7 @@ Escribe un dato en la memoria EEPROM
 EEPROM.Put(direccion, valor);
 ```
 
-Lee una direccion y devuelve un valor
+Lee una direccion y devuelve el valor en una variable
 ```c++
 int obtener;
 EEPROM.Get(direccion, obtener);
